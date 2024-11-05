@@ -15,28 +15,28 @@
       "tags": [],
       "lead_trait": [],
       "text": [
-        "m_c leaves to speak with StarClan. {PRONOUN/m_c/subject/CAP} {VERB/m_c/close/closes} {PRONOUN/m_c/poss} eyes and {VERB/m_c/are/is} immediately surrounded by {PRONOUN/m_c/poss} loved ones, friends, and Clanmates who have passed on. Stars shine throughout their pelts, and their eyes are warm as they greet the new leader."
+        "m_c leaves to speak with The Eternal Colony. {PRONOUN/m_c/subject/CAP} {VERB/m_c/close/closes} {PRONOUN/m_c/poss} eyes and {VERB/m_c/are/is} immediately surrounded by {PRONOUN/m_c/poss} loved ones, friends, and Colony members who have passed on. Nebulae dance within their wrinkly skin, and their eyes are warm as they greet the new queen."
       ]
     },
     "new_clan": {
       "tags": ["new_clan"],
       "lead_trait": [],
       "text": [
-        "As m_c dreams that night, {PRONOUN/m_c/subject} {VERB/m_c/find/finds} {PRONOUN/m_c/self} walking the stars of Silverpelt, a ghostly landscape surrounding {PRONOUN/m_c/object} and a single, starry cat sat within a clearing."
+        "As m_c dreams that night, {PRONOUN/m_c/subject} {VERB/m_c/find/finds} {PRONOUN/m_c/self} walking the stars of The Eternal Colony, a ghostly landscape surrounding {PRONOUN/m_c/object} and a single, starry mole-rat sat within a clearing."
       ]
     },
     "bloodthirsty": {
       "tags": [],
       "lead_trait": ["bloodthirsty"],
       "text": [
-            "m_c leaves to speak with StarClan. {PRONOUN/m_c/subject/CAP} {VERB/m_c/close/closes} {PRONOUN/m_c/poss} eyes and {VERB/m_c/awaken/awakens} under a vast, inky black sky. {PRONOUN/m_c/subject/CAP} {VERB/m_c/turn/turns} around to see a wary group of cats approaching, stars dotting their fur."
+            "m_c leaves to speak with The Eternal Colony. {PRONOUN/m_c/subject/CAP} {VERB/m_c/close/closes} {PRONOUN/m_c/poss} eyes and {VERB/m_c/awaken/awakens} under a vast, inky black sky. {PRONOUN/m_c/subject/CAP} {VERB/m_c/turn/turns} around to see a wary group of mole-rats approaching, nebulae swirl their skin."
       ]
 
     }
   },
 
   "default_life": {
-          "text": "r_c approaches, dipping {PRONOUN/r_c/poss} head in greeting. \"I give you a life for [virtue].\" {PRONOUN/r_c/subject/CAP} {VERB/r_c/meow/meows}, before slipping back into the crowd.",
+          "text": "r_c approaches, dipping {PRONOUN/r_c/poss} head in greeting. \"I give you a life for [virtue].\" {PRONOUN/r_c/subject/CAP} {VERB/r_c/chirp/chirps}, before slipping back into the crowd.",
           "virtue": ["energy", "strength", "wisdom"]
         },
 
@@ -48,7 +48,7 @@
       "rank": [],
       "life_giving": [
         {
-          "text": "The starry cat approaches {PRONOUN/m_c/object} and, although the cat is unfamiliar, their meeting still feels like a reunion with an old friend. \"My name is r_c. You meet me tonight, but the cats under your care will all meet me one day when they join the stars. For now,\" the cat presses {PRONOUN/r_c/poss} nose to m_c's forehead, \"Take this gift, to help you [virtue].\"",
+          "text": "The starry mole-rat approaches {PRONOUN/m_c/object} and, although the mole-rat is unfamiliar, their meeting still feels like a reunion with an old friend. \"My name is r_c. You meet me tonight, but the mole-rats under your care will all meet me one day when they join the stars. For now,\" the mole-rat presses {PRONOUN/r_c/poss} nose to m_c's forehead, \"Take this gift, to help you [virtue].\"",
           "virtue": ["endure in the face of hardship", "know when to fight and when to choose peace", "have the strength to overcome your fears", "lead with tireless energy", "see the dawn behind the darkness", "find wisdom in desperate times"]
         }
       ]
@@ -126,7 +126,7 @@
       "rank": ["warrior", "elder", "medicine cat", "mediator", "apprentice", "deputy", "medicine cat apprentice", "mediator apprentice"],
       "life_giving": [
         {
-          "text": "r_c stalks up to the new leader, eyes burning with unexpected ferocity. {PRONOUN/r_c/subject/CAP} {VERB/r_c/touch/touches} {PRONOUN/r_c/poss} nose to m_c's head, giving {PRONOUN/m_c/object} a life for [virtue]. m_c reels back with the emotion of the life that courses through {PRONOUN/m_c/object}.",
+          "text": "r_c stalks up to the new queen, eyes burning with unexpected ferocity. {PRONOUN/r_c/subject/CAP} {VERB/r_c/touch/touches} {PRONOUN/r_c/poss} nose to m_c's head, giving {PRONOUN/m_c/object} a life for [virtue]. m_c reels back with the emotion of the life that courses through {PRONOUN/m_c/object}.",
           "virtue": ["affection", "compassion", "empathy", "duty", "protection", "pride"]
         }
       ]
@@ -139,7 +139,7 @@
       "rank": ["warrior", "deputy"],
       "life_giving": [
         {
-          "text": "r_c walks up to m_c, offering a life for [virtue]. {PRONOUN/r_c/subject/CAP} {VERB/r_c/smile/smiles}, and {VERB/r_c/state/states} that the Clan will do well under m_c's leadership.",
+          "text": "r_c walks up to m_c, offering a life for [virtue]. {PRONOUN/r_c/subject/CAP} {VERB/r_c/smile/smiles}, and {VERB/r_c/state/states} that the Colony will do well under m_c's leadership.",
           "virtue": ["acceptance", "bravery", "certainty", "clear judgment", "confidence", "courage", "determination", "endurance", "sympathy", "farsightedness", "friendship", "instincts", "mercy", "strength", "unity"]
         },
         {
@@ -147,7 +147,7 @@
           "virtue": ["acceptance", "bravery", "certainty", "clear judgment", "confidence", "courage", "determination", "endurance", "sympathy", "farsightedness", "friendship", "instincts", "mercy", "strength", "unity"]
         },
         {
-          "text": "r_c dips {PRONOUN/r_c/poss} head in greeting. Energy surges through m_c's pelt as {PRONOUN/m_c/subject} {VERB/m_c/receive/receives} a life for [virtue]. {PRONOUN/r_c/subject/CAP} {VERB/r_c/reassure/reassures} m_c that {PRONOUN/m_c/subject} {VERB/m_c/are/is} almost done.",
+          "text": "r_c dips {PRONOUN/r_c/poss} head in greeting. Energy surges through m_c's body as {PRONOUN/m_c/subject} {VERB/m_c/receive/receives} a life for [virtue]. {PRONOUN/r_c/subject/CAP} {VERB/r_c/reassure/reassures} m_c that {PRONOUN/m_c/subject} {VERB/m_c/are/is} almost done.",
           "virtue": ["acceptance", "bravery", "certainty", "clear judgment", "confidence", "courage", "determination", "endurance", "sympathy", "farsightedness", "friendship", "instincts", "mercy", "strength", "unity"]
         }
       ]
@@ -163,11 +163,11 @@
           "virtue": ["acceptance", "bravery", "certainty", "clear judgment", "confidence", "courage", "determination", "endurance", "sympathy", "farsightedness", "friendship", "instincts", "mercy", "strength", "unity"]
         },
         {
-          "text": "A new cat approaches. r_c steps forward to give m_c a life for [virtue]. m_c yowls in pain as the life rushes into {PRONOUN/m_c/object}.",
+          "text": "A new cat approaches. r_c steps forward to give m_c a life for [virtue]. m_c cries in pain as the life rushes into {PRONOUN/m_c/object}.",
           "virtue": ["acceptance", "bravery", "certainty", "clear judgment", "confidence", "courage", "determination", "endurance", "sympathy", "farsightedness", "friendship", "instincts", "mercy", "strength", "unity"]
         },
         {
-          "text": "r_c approaches. Pain surges through m_c's pelt as {PRONOUN/m_c/subject} receive a life for [virtue]. r_c watches dispassionately.",
+          "text": "r_c approaches. Pain surges through m_c's body as {PRONOUN/m_c/subject} receive a life for [virtue]. r_c watches dispassionately.",
           "virtue": ["acceptance", "bravery", "certainty", "clear judgment", "confidence", "courage", "determination", "endurance", "sympathy", "farsightedness", "friendship", "instincts", "mercy", "strength", "unity"]
         }
       ]
@@ -180,7 +180,7 @@
       "rank": ["warrior", "elder", "medicine cat", "mediator", "apprentice", "deputy", "medicine cat apprentice", "mediator apprentice"],
       "life_giving": [
         {
-          "text": "r_c presses {PRONOUN/r_c/poss} nose to m_c's forehead, offering a life for [virtue]. Before {PRONOUN/r_c/subject} {VERB/r_c/return/returns} to the line of StarClan cats, {PRONOUN/r_c/subject} {VERB/r_c/whisper/whispers} to keep an eye on c_n, not just the horizons.",
+          "text": "r_c presses {PRONOUN/r_c/poss} nose to m_c's forehead, offering a life for [virtue]. Before {PRONOUN/r_c/subject} {VERB/r_c/return/returns} to the line of The Eternal Colony members, {PRONOUN/r_c/subject} {VERB/r_c/whisper/whispers} to keep an eye on c_n, not just the horizons.",
           "virtue": ["acceptance", "bravery", "certainty", "clear judgment", "confidence", "courage", "determination", "endurance", "sympathy", "farsightedness", "friendship", "instincts", "mercy", "strength", "unity"]
         },
         {
@@ -197,11 +197,11 @@
       "rank": ["warrior", "elder", "medicine cat", "mediator", "apprentice", "deputy", "medicine cat apprentice", "mediator apprentice"],
       "life_giving": [
         {
-          "text": "r_c waltzes up to m_c's side like a whirlwind, {PRONOUN/r_c/poss} fur sticking up in all angles. {PRONOUN/r_c/subject/CAP} {VERB/r_c/give/gives} the new leader a life for [virtue] before dashing off into the crowd of starlight.",
+          "text": "r_c waltzes up to m_c's side like a whirlwind, {PRONOUN/r_c/poss} fur sticking up in all angles. {PRONOUN/r_c/subject/CAP} {VERB/r_c/give/gives} the new queen a life for [virtue] before dashing off into the crowd of starlight.",
           "virtue": ["acceptance", "bravery", "certainty", "clear judgment", "confidence", "courage", "determination", "endurance", "sympathy", "farsightedness", "friendship", "instincts", "mercy", "strength", "unity"]
         },
         {
-          "text": "r_c waltzes up to m_c's side like a whirlwind, {PRONOUN/r_c/poss} fur sticking up in all angles. {PRONOUN/r_c/subject/CAP} {VERB/r_c/give/gives} the new leader a life for [virtue] before dashing off into the crowd of starlight.",
+          "text": "r_c waltzes up to m_c's side like a whirlwind, {PRONOUN/r_c/poss} fur sticking up in all angles. {PRONOUN/r_c/subject/CAP} {VERB/r_c/give/gives} the new queen a life for [virtue] before dashing off into the crowd of starlight.",
           "virtue": ["acceptance", "bravery", "certainty", "clear judgment", "confidence", "courage", "determination", "endurance", "sympathy", "farsightedness", "friendship", "instincts", "mercy", "strength", "unity"]
         }
       ]
@@ -431,7 +431,7 @@
       "rank": ["warrior", "elder", "medicine cat", "mediator", "apprentice", "deputy"],
       "life_giving": [
         {
-          "text": "There is no doubt in r_c's eyes that StarClan made a good choice in leader. m_c had demonstrated {PRONOUN/m_c/poss} faith in StarClan time and time again, and it is {PRONOUN/r_c/poss} honor to give {PRONOUN/m_c/object} a life for [virtue].",
+          "text": "There is no doubt in r_c's eyes that The Eternal Clan made a good choice in queen. m_c had demonstrated {PRONOUN/m_c/poss} faith in The Eternal Queen time and time again, and it is {PRONOUN/r_c/poss} honor to give {PRONOUN/m_c/object} a life for [virtue].",
           "virtue": ["acceptance", "bravery", "certainty", "clear judgment", "confidence", "courage", "determination", "endurance", "sympathy", "farsightedness", "friendship", "instincts", "mercy", "strength", "unity"]
         },
         {
@@ -452,7 +452,7 @@
           "virtue": ["acceptance", "bravery", "certainty", "clear judgment", "confidence", "courage", "determination", "endurance", "sympathy", "farsightedness", "friendship", "instincts", "mercy", "strength", "unity"]
         },
         {
-          "text": "r_c hesitates for a moment, a vision of blood across m_c's claws assaulting the StarClan cat's mind. But eventually, {PRONOUN/r_c/subject} {VERB/r_c/relent/relents} and gives a life for [virtue].",
+          "text": "r_c hesitates for a moment, a vision of blood across m_c's claws assaulting the Eternal Colony mole-rat's mind. But eventually, {PRONOUN/r_c/subject} {VERB/r_c/relent/relents} and gives a life for [virtue].",
           "virtue": ["acceptance", "bravery", "certainty", "clear judgment", "confidence", "courage", "determination", "endurance", "sympathy", "farsightedness", "friendship", "instincts", "mercy", "strength", "unity"]
         }
       ]
@@ -1062,7 +1062,7 @@
       "tags": [],
       "lead_trait": [],
       "text": [
-            "r_c hails m_c by {PRONOUN/m_c/poss} new name, m_c_star, telling {PRONOUN/m_c/object} that {PRONOUN/m_c/poss} old life is no more. {PRONOUN/m_c/subject/CAP} {VERB/m_c/are/is} granted guardianship of c_n, and {VERB/m_c/are/is} told to use {PRONOUN/m_c/poss} new power wisely. The group of starry cats yowls m_c_star's name in support. m_c_star wakes up feeling a new strength within {PRONOUN/m_c/poss} body and knows that {PRONOUN/m_c/subject} {VERB/m_c/are/is} now ready to lead the Clan."
+            "r_c hails m_c by {PRONOUN/m_c/poss} new name, m_c_star, telling {PRONOUN/m_c/object} that {PRONOUN/m_c/poss} old life is no more. {PRONOUN/m_c/subject/CAP} {VERB/m_c/are/is} granted guardianship of c_n, and {VERB/m_c/are/is} told to use {PRONOUN/m_c/poss} new power wisely. The group of starry mole-rats yowls m_c_star's name in support. m_c_star wakes up feeling a new strength within {PRONOUN/m_c/poss} body and knows that {PRONOUN/m_c/subject} {VERB/m_c/are/is} now ready to lead the Colony."
       ]
     },
 
@@ -1078,7 +1078,7 @@
       "tags": [],
       "lead_trait": ["bloodthirsty"],
       "text": [
-        "r_c hails m_c by {PRONOUN/m_c/poss} new name, m_c_star, telling {PRONOUN/m_c/object} that {PRONOUN/m_c/poss} old life is no more. {PRONOUN/m_c/subject/CAP} {VERB/m_c/are/is} granted guardianship of c_n, and {VERB/m_c/are/is} told to use {PRONOUN/m_c/poss} new power wisely. StarClan is silent as the new leader begins to wake up. m_c_star stands, feeling a new strength within {PRONOUN/m_c/poss} body, and grins."
+        "r_c hails m_c by {PRONOUN/m_c/poss} new name, m_c_star, telling {PRONOUN/m_c/object} that {PRONOUN/m_c/poss} old life is no more. {PRONOUN/m_c/subject/CAP} {VERB/m_c/are/is} granted guardianship of c_n, and {VERB/m_c/are/is} told to use {PRONOUN/m_c/poss} new power wisely. The Eternal Colony is silent as the new leader begins to wake up. m_c_star stands, feeling a new strength within {PRONOUN/m_c/poss} body, and grins."
       ]
     }
   }
