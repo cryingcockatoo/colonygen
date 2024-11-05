@@ -36,7 +36,8 @@
 
         "disgraced1": "m_c was cast out of {PRONOUN/m_c/poss} old Clan for some transgression that {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} not keen on talking about.",
         "disgraced2": "m_c was exiled from {PRONOUN/m_c/poss} old Clan for something {PRONOUN/m_c/subject} didn't do and came here to seek safety.",
-        "disgraced3": "m_c once was a queen in another Clan but was exiled for reasons {PRONOUN/m_c/subject} {VERB/m_c/refuse/refuses} to share.",
+        "disgraced3": "m_c once was a queen in another Colony but was exiled for reasons {PRONOUN/m_c/subject} {VERB/m_c/refuse/refuses} to share.",
+        "disgraced4": "m_c once was a worker in another Colony but was cast out of {PRONOUN/m_c/poss} old Colony for not contributing enough.",
 
         "retired_leader": "m_c used to be the queen of another Colony before deciding {PRONOUN/m_c/subject} needed a change of scenery after leadership became too much. {PRONOUN/m_c/subject/CAP} returned {PRONOUN/m_c/poss} nine lives and let {PRONOUN/m_c/poss} head consort take over before coming here.",
         "medicine_cat": "m_c was once a harvester mole in another Colony.",
