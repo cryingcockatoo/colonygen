@@ -75,7 +75,7 @@
   },
 
   "normal_prefixes": [
-    "Adder", "Alder", "Ant", "Antler", "Aphid", "Apple", "Apricot", "Arch", "Aspen", "Aster", 
+    "Adder of", "Alder of", "Ant of", "Antler of", "Aphid of", "Apple of", "Apricot", "Arch", "Aspen", "Aster", 
     "Badger", "Barley", "Basil", "Bass", "Bay", "Beam", "Bear", "Beaver", "Bee", "Beech", "Beetle", "Berry", "Big", "Billow", "Birch", 
     "Bird", "Bite", "Bitter", "Bittern", "Bliss", "Blizzard", "Bloom", "Blossom", "Blotch", "Bluebell", "Bluff", "Bog", "Borage", 
     "Bough", "Boulder", "Bounce", "Bracken", "Bramble", "Brave", "Breeze", "Briar", "Bright", "Brindle", "Bristle", "Broken", "Brook", 
@@ -84,7 +84,7 @@
     "Cicada", "Claw", "Clay", "Clear", "Cliff", "Clover", "Comfrey", "Condor", "Cone", "Conifer", "Conker", "Copse", "Cougar", 
     "Coyote", "Crag", "Crane", "Creek", "Cress", "Crest", "Crested", "Cricket", "Crooked", "Crouch", "Curl", "Curlew", "Curly", 
     "Current", "Cypress", "Dahlia", "Daisy", "Dancing", "Dapple", "Dappled", "Dart", "Dash", "Dawn", "Dazzle", "Dew", "Dog", "Down", 
-    "Downy", "Dream", "Drift", "Drizzle", "Droplet", "Dry", "Duck", "Dusk", "Eagle", "Echo", "Edelweiss", "Egret", "Elder", "Elm", 
+    "Downy", "Dream", "Drift", "Drizzle", "Droplet", "Dry", "Duck of", "Dusk", "Eagle", "Echo", "Edelweiss", "Egret", "Elder", "Elm", 
     "Ermine", "Faith", "Falcon", "Fallen", "Falling", "Fallow", "Fawn", "Feather", "Fennel", "Fern", "Ferret", "Fickle", "Fidget", 
     "Fierce", "Fin", "Finch", "Fir", "Fish", "Flail", "Flash", "Flax", "Fleck", "Fleet", "Flicker", "Flight", "Flint", "Flip", 
     "Flit", "Flood", "Flower", "Fluff", "Fluffy", "Flutter", "Fly", "Fog", "Foggy", "Freckle", "Fringe", "Frog", "Frond", "Fruit", 
@@ -98,20 +98,20 @@
     "Moor", "Morning", "Moss", "Mossy", "Moth", "Mottle", "Mottled", "Mouse", "Mumble", "Murk", "Myrtle", "Nectar", "Needle",
     "Nettle", "Newt", "Nightingale", "Nimble", "Nut", "Oak", "Oat", "Odd", "One", "Oriole", "Osprey", "Pansy", "Panther", "Parsley",
     "Partridge", "Patch", "Patchouli", "Peak", "Pear", "Peat", "Perch", "Petal", "Petunia", "Pheasant", "Pigeon", "Pike", "Pine",
-    "Piper", "Plover", "Plum", "Pod", "Pond", "Pool", "Pop", "Poppy", "Posy", "Pounce", "Prance", "Prickle", "Prim", "Primrose",
+    "Piper", "Plover", "Plum", "Pod", "Pond", "Potato of", "Pool", "Pop", "Poppy", "Posy", "Pounce", "Prance", "Prickle", "Prim", "Primrose",
     "Puddle", "Python", "Quail", "Quick", "Quiet", "Quill", "Quiver", "Rabbit", "Raccoon", "Ragged", "Rain", "Rainbow", "Rat",
-    "Rattle", "Raven", "Reed", "Ridge", "Rift", "Rindle", "Ripple", "River", "Roach", "Roar", "Rook", "Root", "Rose", "Rosy",
+    "Rattle of", "Raven of", "Reed", "Ridge", "Rift", "Rindle", "Ripple", "River", "Roach", "Roar", "Rook", "Root of", "Rose", "Rosy",
     "Rowan", "Rubble", "Runnel", "Running", "Rush", "Rye", "Sable", "Sapling", "Scorch", "Scratch", "Seed", "Serpent", "Shard",
     "Sharp", "Shell", "Shimmer", "Shine", "Shining", "Shivering", "Short", "Shrew", "Shrub", "Shy", "Silent", "Silk", "Silt", "Skip",
     "Sky", "Slate", "Sleek", "Sleepy", "Sleet", "Slight", "Slip", "Sloe", "Slope", "Slumber", "Small", "Snail", "Snake", "Snap",
     "Sneeze", "Snip", "Snowy", "Soft", "Song", "Sorrel", "Spark", "Sparrow", "Speckle", "Spider", "Spike", "Splash", "Splinter",
     "Spore", "Spot", "Spotted", "Spring", "Sprout", "Spruce", "Squirrel", "Starling", "Stem", "Stoat", "Stork", "Streak", "Stream", 
-    "Strike", "Stumpy", "Sunny", "Swallow", "Swamp", "Swarm", "Sweet", "Swift", "Sycamore", "Tadpole", "Tall", "Talon", "Tangle", 
+    "Strike", "Stumpy", "Sun of", "Swallow", "Swamp", "Swarm", "Sweet", "Swift", "Sycamore", "Tadpole", "Tall", "Talon", "Tangle", 
     "Tansy", "Tawny", "Tempest", "Thistle", "Thorn", "Thrift", "Thrush", "Thunder", "Thyme", "Tiger", "Timber", "Tiny", "Toad", 
     "Torn", "Tremble", "Trickle", "Trout", "Tuft", "Tulip", "Tumble", "Turtle", "Valley", "Vine", "Vixen", "Wasp", "Weasel", "Web", 
     "Weed", "Weevil", "Wet", "Wheat", "Whimsy", "Whirl", "Whisker", "Whisper", "Whispering", "Whistle", "Whorl", "Wild", "Willow", 
-    "Wind", "Wing", "Wish", "Wisteria", "Wolf", "Wolverine", "Wood", "Worm", "Wren", "Yarrow", "Yew", 
-    "Zinnia"
+    "Wind", "Wing", "Wish of", "Wisteria", "Wolf", "Wolverine", "Wood", "Worm", "Wren", "Yarrow", "Yew", 
+    "Zinnia","Zebra of"
   ],
 
   "clan_prefixes": [
@@ -291,7 +291,7 @@
   },
 
   "eye_prefixes": {
-    "YELLOW": ["Yellow", "Moon", "Daisy", "Honey", "Light", "Sun", "Lemon"],
+    "YELLOW": ["Yellow of", "Moon", "Daisy", "Honey", "Light", "Sun", "Lemon"],
     "AMBER": ["Amber", "Sun", "Fire", "Gold", "Honey", "Scorch", "Flame", "Blaze", "Pumpkin"],
     "HAZEL": ["Hazel", "Tawny", "Hazel", "Gold", "Daisy", "Sand", "Almond"],
     "PALEGREEN": ["Pale", "Green", "Mint", "Fern", "Weed", "Olive", "Stem", "Lime", "Agave"],
@@ -439,7 +439,7 @@
     "squid", "swan", "thrush", "tiger", "turtle"
 	],
 	"animal_prefixes": [
-		"Addax", "Adder", "Albatross", "Alligator", "Alpaca", "Ant", "Antelope", "Aphid", "Avocet", "Axolotl", "Badger", "Barracuda", "Bass", "Bat", "Bear", "Beaver", 
+		"Addax", "Adder", "Albatross of", "Alligator of", "Alpaca", "Ant", "Antelope", "Aphid", "Avocet", "Axolotl", "Badger", "Barracuda", "Bass", "Bat", "Bear", "Beaver", 
     "Bee", "Beetle", "Beluga", "Bird", "Bison", "Bittern", "Boar", "Buck", "Buffalo", "Bug", "Butterfly", "Camel", "Canary", "Caracal", "Caribou", "Carp", 
     "Caterpillar", "Chaffinch", "Chamois", "Cheetah", "Chick", "Cicada", "Civet", "Clam", "Coati", "Cobra", "Cod", "Condor", "Coral", "Cormorant", "Cougar", "Cow", 
     "Coyote", "Crab", "Crane", "Crocodile", "Crow", "Curlew", "Cygnet", "Deer", "Dingo", "Doe", "Dog", "Dolphin", "Dove", "Duck", "Eagle", "Egret", "Elk", "Ermine", 
@@ -451,7 +451,7 @@
     "Roach", "Robin", "Sable", "Salamander", "Salmon", "Sardine", "Scorpion", "Seabass", "Seagull", "Serpent", "Shark", "Sheep", "Shrew", "Shrike", "Skink", "Skunk",
     "Slug", "Snail", "Snake", "Sparrow", "Spider", "Spoonbill", "Squid", "Squirrel", "Stag", "Starling", "Stoat", "Stork", "Swallow", "Swan", "Tadpole", "Taipan", 
     "Tarantula", "Tiger", "Toad", "Trout", "Turtle", "Viper", "Vixen", "Vole", "Vulture", "Warbler", "Wasp", "Weasel", "Weevil", "Whale", "Wolf", "Wolverine", "Worm", 
-    "Wren"
+    "Wren", "Zebra of"
 	],
 	"inappropriate_names": [
 		"wetback", "yellowface", "redface", "blackface", "brownface", "pancakeface", "yellowbone", "molesting"
