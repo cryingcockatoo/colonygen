@@ -265,6 +265,8 @@ class Name:
         if (
             self.status in self.names_dict["special_suffixes"]
             and not self.specsuffix_hidden
+            elif self.status in self.names_dict["special_prefixes"] and not self.specsuffix_hidden:
+            return self.names_dict["special_prefixes"][self.status] + self.suffix
         ):
             return self.prefix + self.names_dict["special_suffixes"][self.status]
         if game.config["fun"]["april_fools"]:
