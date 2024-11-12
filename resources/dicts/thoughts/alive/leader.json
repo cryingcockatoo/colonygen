@@ -2,27 +2,27 @@
     {
         "id": "gen_leader",
         "thoughts": [
-            "Is hoping for a sign from StarClan",
-            "Is hoping that {PRONOUN/m_c/subject} {VERB/m_c/are/is} leading {PRONOUN/m_c/poss} Clan well",
-            "Is worried about Clan relations",
+            "Is hoping for a sign from the Eternal Colony",
+            "Is hoping that {PRONOUN/m_c/subject} {VERB/m_c/are/is} leading {PRONOUN/m_c/poss} Colony well",
+            "Is worried about Colony relations",
             "Is thinking about battle strategies",
             "Almost lost a life recently",
             "Is counting how many lives {PRONOUN/m_c/subject} {VERB/m_c/have/has} left",
             "Is thinking about what to say at the Gathering",
             "Is questioning {PRONOUN/m_c/poss} ability to lead",
-            "Is dreading the Clan meeting {PRONOUN/m_c/subject} must call later today",
+            "Is dreading the Colony meeting {PRONOUN/m_c/subject} must call later today",
             "Is finding the responsibility of leadership to be quite the heavy burden",
-            "Is feeling blessed by StarClan this moon",
+            "Is feeling blessed by Eternal Colony this moon",
             "Is thinking about forming an alliance",
-            "Is making a solemn vow to protect {PRONOUN/m_c/poss} Clanmates",
-            "Called an important Clan meeting recently",
-            "Thinks {PRONOUN/m_c/subject} {VERB/m_c/have/has} been hearing the voices of StarClan cats...",
-            "Is pondering recent dreams {PRONOUN/m_c/subject} {VERB/m_c/have/has} had... perhaps from StarClan?",
-            "Recently called a Clan meeting, but forgot what to say",
-            "Is thinking about new ways to care for the Clan",
-            "Is wondering what the Clan thinks of {PRONOUN/m_c/poss} leadership",
-            "Is proud of the way the Clan is handling things lately",
-            "Promises to take care of the Clan with {PRONOUN/m_c/poss} lives",
+            "Is making a solemn vow to protect {PRONOUN/m_c/poss} Colony members",
+            "Called an important Colony meeting recently",
+            "Thinks {PRONOUN/m_c/subject} {VERB/m_c/have/has} been hearing the voices of Eternal Colony mole-rats...",
+            "Is pondering recent dreams {PRONOUN/m_c/subject} {VERB/m_c/have/has} had... perhaps from Eternal Colony?",
+            "Recently called a Colony meeting, but forgot what to say",
+            "Is thinking about new ways to care for the Colony",
+            "Is wondering what the Colony thinks of {PRONOUN/m_c/poss} leadership",
+            "Is proud of the way the Colony is handling things lately",
+            "Promises to take care of the Colony with {PRONOUN/m_c/poss} lives",
             "Is busy planning out priorities for the day"
         ]
     },
@@ -39,12 +39,12 @@
     {
         "id": "leader_alive_kits",
         "thoughts": [
-            "Has recently picked up the scent of mischievous kits in {PRONOUN/m_c/poss} den...",
-            "Is pondering the next mentors for the kits of the Clan",
+            "Has recently picked up the scent of mischievous pups in {PRONOUN/m_c/poss} den...",
+            "Is pondering the next mentors for the pups of the Colony",
             "Thinks about who should mentor new apprentices",
-            "Bats a moss ball back to r_c when it hits {PRONOUN/m_c/object}, chuckling at the wide-eyed kit",
-            "Is looking over the kits, pleased the Clan is thriving",
-            "Is visiting the nursery to check on the kits, the future of the Clan"
+            "Bats a moss ball back to r_c when it hits {PRONOUN/m_c/object}, chuckling at the wide-eyed pup",
+            "Is looking over the pups, pleased the Clan is thriving",
+            "Is visiting the nursery to check on the pups, the future of the Clan"
         ],
         "random_status_constraint": [
             "kitten"
