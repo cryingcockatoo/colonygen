@@ -4,22 +4,22 @@
         "clanborn": "m_c was born into the Colony where {PRONOUN/m_c/subject} currently {VERB/m_c/reside/resides}.",
 
         "halfclan1": "m_c was born into the Colony, but one of {PRONOUN/m_c/poss} parents resides in another Colony.",
-        "halfclan2": "m_c was born in another Clan, but chose to come to this Clan to be with {PRONOUN/m_c/poss} other parent.",
+        "halfclan2": "m_c was born in another the Colony, but chose to come to this Clan to be with {PRONOUN/m_c/poss} other parent.",
 
         "outsider_roots1": "m_c was born into the Colony, but one of {PRONOUN/m_c/poss} parents is an outcast that belongs to no Colony.",
         "outsider_roots2": "m_c was born outside the Colony, but came to live in the Colony with {PRONOUN/m_c/poss} parent at a young age.",
 
         "loner1": "m_c joined the Colony by choice after living life as a loner.",
-        "loner2": "m_c used to live in a village, but mostly stayed away from Twolegs. {PRONOUN/m_c/subject/CAP} decided Colony life might be an interesting change of pace.",
+        "loner2": "m_c used to live in a popular national park, but mostly stayed away from Twolegs. {PRONOUN/m_c/subject/CAP} decided Colony life might be an interesting change of pace.",
         "loner3": "m_c wandered the world, aimless and free, but always alone.",
-        "loner4": "m_c wandered the world, aimless and free, but always alone - until {PRONOUN/m_c/subject} found someone worth staying for.",
+        "loner4": "m_c wandered the world, aimless and free, but always alone - until {PRONOUN/m_c/subject} found someone that made the Colony feel like home.",
 
         "kittypet1": "m_c joined the Clan by choice after living life with Twolegs as a kittypet.",
-        "kittypet2": "m_c used to live on something called a 'boat' with Twolegs, but decided to join the Clan.",
-        "kittypet3": "m_c used to be a kittypet. {PRONOUN/m_c/subject/CAP} got lost after wandering away, and when {PRONOUN/m_c/subject} returned home, {PRONOUN/m_c/subject} found {PRONOUN/m_c/poss} Twolegs were gone. {PRONOUN/m_c/subject/CAP} eventually found {PRONOUN/m_c/poss} way to the Clan.",
-        "kittypet4": "m_c used to be a kittypet. One day, {PRONOUN/m_c/subject} got sick, and {PRONOUN/m_c/poss} Twolegs brought {PRONOUN/m_c/object} into the belly of a monster. The Twolegs then left {PRONOUN/m_c/object} to fend for {PRONOUN/m_c/self}.",
-
-        "rogue1": "m_c joined the Clan by choice after living life as a rogue.",
+        "kittypet2": "m_c used to live on something called a 'boat' with Twolegs, but decided to join the Clan
+        "kittypet3": "m_c used to be a tubemole {PRONOUN/m_c/subject/CAP} got lost after wandering away, and when {PRONOUN/m_c/subject} returned home, {PRONOUN/m_c/subject} found {PRONOUN/m_c/poss} Twolegs were gone. {PRONOUN/m_c/subject/CAP} eventually found {PRONOUN/m_c/poss} way to the Clan.",
+        "kittypet4": "m_c used to be a tubemole. One day, {PRONOUN/m_c/poss} Twolegs brought {PRONOUN/m_c/object} into the belly of a monster. The Twolegs then left {PRONOUN/m_c/object} to fend for {PRONOUN/m_c/self}.",
+ 
+        "rogue1": "m_c joined the Colony by choice after living life as a rogue.",
         "rogue2": "m_c used to live in a Twolegplace, scrounging for what {PRONOUN/m_c/subject} could find. {PRONOUN/m_c/subject/CAP} thought the Clan might offer {PRONOUN/m_c/object} more security.",
         "rogue3": "m_c used to live alone in {PRONOUN/m_c/poss} own territory, but was chased out by something and eventually found the Clan.",
 
@@ -45,8 +45,8 @@
 
         "refugee1": "m_c came to this Colony after fleeing from {PRONOUN/m_c/poss} former Colony and the sadistic queen that had taken over.",
         "refugee2": "m_c used to live as an interloper, but after another colony chased {PRONOUN/m_c/object} from {PRONOUN/m_c/poss} territory, {PRONOUN/m_c/subject} found refuge in the Colony.",
-        "refugee3": "m_c used to be a kittypet, but joined the Clan after fleeing from {PRONOUN/m_c/poss} cruel Twoleg.",
-        "refugee4": "m_c used to be in a rogue group, but joined the Clan after fleeing from the group's tyrannical leader.",
+        "refugee3": "m_c used to be a tubemole, but joined the Clan after fleeing from {PRONOUN/m_c/poss} cruel Twoleg.",
+        "refugee4": "m_c used to be in an interloper group, but joined the Colony after fleeing from the group's tyrannical queen.",
         "refugee5": "m_c got washed away from {PRONOUN/m_c/poss} former territory in a flood that destroyed {PRONOUN/m_c/poss} home but was glad to find a new home in {PRONOUN/m_c/poss} new Colony here.",
         "refugee6": "m_c used to be a testrat, but joined the Colony, sick and weak after finding {PRONOUN/m_c/poss} way out.",
 
@@ -57,7 +57,7 @@
         "wandering_healer1": "m_c used to wander, providing {PRONOUN/m_c/poss} insight when {PRONOUN/m_c/subject} could, and eventually found the Clan.",
         "wandering_healer2": "m_c used to live in a specific spot, offering help to all who wanted it, but eventually found {PRONOUN/m_c/poss} way to the Clan.",
 
-        "guided1": "m_c used to be a testrat, but after dreaming of glowing-whiskered molerats, {PRONOUN/m_c/subject} followed their whispers to the Colony.",
+        "guided1": "m_c used to be a tubemole, but molerat after dreaming of glowing-whiskered molerats, {PRONOUN/m_c/subject} followed their whispers to the Colony.",
         "guided2": "m_c used to live a rough life as an interloper. While wandering, {PRONOUN/m_c/subject} found a luminescent series of tunnels, and followed them to the Colony.",
         "guided3": "m_c used to live as an outcast. A glowing-whiskered molerat appeared to {PRONOUN/m_c/object} one day, and then led {PRONOUN/m_c/object} to the Colony.",
         "guided4": "m_c used to live in a different Colony, until a sign from The Eternal Colony told {PRONOUN/m_c/object} to leave.",
